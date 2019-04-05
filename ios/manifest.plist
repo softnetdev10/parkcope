@@ -37,7 +37,7 @@
 				<key>title</key>
 				<string>Parkcope</string>
 			</dict>
-			<key>thinned-assets</key>
+<!--			<key>thinned-assets</key>
 			<array>
 				<dict>
 					<key>kind</key>
@@ -513,7 +513,7 @@
 						<string>iPhone11,8</string>
 					</array>
 				</dict>
-			</array>
+			</array>-->
 		</dict>
 	</array>
 </dict>

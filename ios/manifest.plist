@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/manifest.plist</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>

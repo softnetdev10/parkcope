@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-2FC9A936-1709-4175-B255-E1BC8ACB4EBA.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-2FC9A936-1709-4175-B255-E1BC8ACB4EBA.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -83,7 +83,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-73FA4693-6982-45E0-8F61-C626518B8404.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-73FA4693-6982-45E0-8F61-C626518B8404.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -193,7 +193,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-1A986F4B-F4EF-40D9-9A2E-776046AE2A39.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-1A986F4B-F4EF-40D9-9A2E-776046AE2A39.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -247,7 +247,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-4559291A-A847-4F91-A992-8151A5865DDC.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-4559291A-A847-4F91-A992-8151A5865DDC.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -266,7 +266,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-AB49243B-5FFF-4A50-BBFB-F040719A608F.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-AB49243B-5FFF-4A50-BBFB-F040719A608F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -285,7 +285,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-3EA4BA97-4ACC-4854-8ED0-D2EEB83BE088.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-3EA4BA97-4ACC-4854-8ED0-D2EEB83BE088.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -360,7 +360,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-5318BC76-9F47-4E6C-BB4C-18A0D1F5B670.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-5318BC76-9F47-4E6C-BB4C-18A0D1F5B670.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -372,7 +372,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://softnetdev10.github.io/parkcope/ios/ParkcopeClient-8FF854A9-8F20-4D15-8BE6-DC03D3809F3B.ipa</string>
+					<string>https://softnetdev10.github.io/parkcope/ios/Parkcope-8FF854A9-8F20-4D15-8BE6-DC03D3809F3B.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>

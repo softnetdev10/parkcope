@@ -37,7 +37,7 @@
 				<key>title</key>
 				<string>Parkcope</string>
 			</dict>
-			<key>thinned-assets</key>
+			<!-- <key>thinned-assets</key>
 			<array>
 				<dict>
 					<key>kind</key>
@@ -944,7 +944,7 @@
 					<key>variantIds</key>
 					<array/>
 				</dict>
-			</array>
+			</array> -->
 		</dict>
 	</array>
 </dict>
